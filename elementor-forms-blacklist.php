@@ -9,8 +9,8 @@ Author: witty-code.com
 Author URI: https://witty-code.com
 Text Domain: efb
 
-* Elementor tested up to:     3.6.7
-* Elementor Pro tested up to: 3.7.2
+* Elementor tested up to:     3.7.4
+* Elementor Pro tested up to: 3.7.5
 */
 
 if( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
